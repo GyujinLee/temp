@@ -3,5 +3,6 @@
 
 int main(){
 	printf("main\n");
+	printf("b1\n");
 	return 0;
 }
